@@ -1,11 +1,25 @@
 {
   "customer": [
     {
-      "id": 1,
-      "title": "hello"
+      "hetu": "111111-111C",
+      "nimi": "Tero Vyyryläinen",
+      "kotikunta": "Kirkkonummi",
+      "luottoluokitus: "A",
+      "varallisuus": 10000
+    },
+    {
+      "hetu": "222222-222B",
+      "nimi": "Matti Meikäläinen",
+      "kotikunta": "Helsinki",
+      "luottoluokitus: "B",
+      "varallisuus": 5000
+    },
+    {
+      "hetu": "333333-333A",
+      "nimi": "Teppo Terävä",
+      "kotikunta": "Espoo",
+      "luottoluokitus: "C",
+      "varallisuus": -10000
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
