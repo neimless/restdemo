@@ -1,5 +1,5 @@
 {
-  "customer": [
+  "asiakas": [
     {
       "hetu": "111111-111C",
       "nimi": "Tero Vyyryläinen",
@@ -20,6 +20,20 @@
       "kotikunta": "Espoo",
       "luottoluokitus: "C",
       "varallisuus": -10000
+    }
+  ],
+  "luokitus": [
+    {
+      "luokitus": "A",
+      "kuvaus": "hyvä"
+    },
+    {
+      "luokitus": "B",
+      "kuvaus": "tyydyttävä"
+    },
+    {
+      "luokitus": "C",
+      "kuvaus": "huono"
     }
   ]
 }
