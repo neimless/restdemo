@@ -1,6 +1,7 @@
 {
   "asiakas": [
     {
+      "id": 1,
       "hetu": "111111-111C",
       "nimi": "Tero Vyyryläinen",
       "kotikunta": "Kirkkonummi",
@@ -8,6 +9,7 @@
       "varallisuus": 10000
     },
     {
+      "id": 2,
       "hetu": "222222-222B",
       "nimi": "Matti Meikäläinen",
       "kotikunta": "Helsinki",
@@ -15,6 +17,7 @@
       "varallisuus": 5000
     },
     {
+      "id": 3,
       "hetu": "333333-333A",
       "nimi": "Teppo Terävä",
       "kotikunta": "Espoo",
@@ -24,14 +27,17 @@
   ],
   "luokitus": [
     {
+      "id": 1,
       "luokitus": "A",
       "kuvaus": "hyvä"
     },
     {
+      "id": 2,
       "luokitus": "B",
       "kuvaus": "tyydyttävä"
     },
     {
+      "id": 3,
       "luokitus": "C",
       "kuvaus": "huono"
     }
