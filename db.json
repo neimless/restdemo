@@ -4,21 +4,21 @@
       "hetu": "111111-111C",
       "nimi": "Tero Vyyryläinen",
       "kotikunta": "Kirkkonummi",
-      "luottoluokitus: "A",
+      "luottoluokitus": "A",
       "varallisuus": 10000
     },
     {
       "hetu": "222222-222B",
       "nimi": "Matti Meikäläinen",
       "kotikunta": "Helsinki",
-      "luottoluokitus: "B",
+      "luottoluokitus": "B",
       "varallisuus": 5000
     },
     {
       "hetu": "333333-333A",
       "nimi": "Teppo Terävä",
       "kotikunta": "Espoo",
-      "luottoluokitus: "C",
+      "luottoluokitus": "C",
       "varallisuus": 0
     }
   ],
